@@ -20,4 +20,5 @@ it would be changed in the CSS portion of the code.
 
 # Part 2
 Link: https://codepen.io/nyuzui/pen/dywOrmj
-![week-2 pt-2](https://github.com/nyuzui/week-2.md/assets/143363660/959c0998-94c2-4758-9057-7328b96f3f64)
+
+![week-2 pt-2](https://github.com/nyuzui/week-2.md/assets/143363660/959c0998-94c2-4758-9057-7328b96f3f64) 
